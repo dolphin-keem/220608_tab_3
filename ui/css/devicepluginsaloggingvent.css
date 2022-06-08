@@ -1,0 +1,285 @@
+/* screen - devicepluginsaloggingvent */
+
+.devicepluginsaloggingvent {
+  background-color: var(--white);
+  height: 3174px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginsaloggingvent .group-7 {
+  height: 1083px;
+  left: 409px;
+  position: absolute;
+  top: 1892px;
+  width: 1400px;
+}
+
+.devicepluginsaloggingvent .group-6 {
+  height: 1354px;
+  left: 420px;
+  position: absolute;
+  top: 389px;
+  width: 1401px;
+}
+
+.devicepluginsaloggingvent .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingvent .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingvent .web-tab-device-plug-in_-smart-lock {
+  background-color: var(--white);
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingvent .tab {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+}
+
+.devicepluginsaloggingvent .sa-logging {
+  cursor: pointer;
+  height: 17px;
+  width: 67px;
+}
+
+.devicepluginsaloggingvent .gas-valve {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 63px;
+}
+
+.devicepluginsaloggingvent .elevator {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 54px;
+}
+
+.devicepluginsaloggingvent .light {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 34px;
+}
+
+.devicepluginsaloggingvent .thermostat-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 75px;
+}
+
+.devicepluginsaloggingvent .tab-1 {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 47px;
+}
+
+.devicepluginsaloggingvent .air-conditioner-copy {
+  cursor: pointer;
+  height: 17px;
+  width: 95px;
+}
+
+.devicepluginsaloggingvent .vent-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 29px;
+}
+
+.devicepluginsaloggingvent .curtain-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 46px;
+}
+
+.devicepluginsaloggingvent .integrated-switch-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 112px;
+}
+
+.devicepluginsaloggingvent .smart-plug-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 69px;
+}
+
+.devicepluginsaloggingvent .smart-lock-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 67px;
+}
+
+.devicepluginsaloggingvent .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingvent .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginsaloggingvent .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingvent .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginsaloggingvent .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginsaloggingvent .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingvent .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsaloggingvent .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsaloggingvent .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingvent .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginsaloggingvent .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsaloggingvent .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginsaloggingvent .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginsaloggingvent .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginsaloggingvent .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginsaloggingvent .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginsaloggingvent .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginsaloggingvent .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

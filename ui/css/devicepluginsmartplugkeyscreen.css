@@ -1,0 +1,414 @@
+/* screen - devicepluginsmartplugkeyscreen */
+
+.devicepluginsmartplugkeyscreen {
+  background-color: var(--white);
+  height: 1679px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginsmartplugkeyscreen .group-76 {
+  height: 1137px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .descriptiontabletop-copy-2 {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .group-13 {
+  height: 146px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy {
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-9 {
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 89px;
+  width: 400px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-1 {
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text1line_-bold-copy {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.devicepluginsmartplugkeyscreen .group-73 {
+  height: 340px;
+  left: 0;
+  position: absolute;
+  top: 212px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .group-2 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-2 {
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-3 {
+  cursor: pointer;
+  height: 77px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginsmartplugkeyscreen .group-70 {
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 129px;
+  width: 620px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-4 {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-58 {
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginsmartplugkeyscreen .group-71 {
+  height: 77px;
+  left: 60px;
+  position: absolute;
+  top: 196px;
+  width: 620px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-52 {
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-5 {
+  cursor: pointer;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginsmartplugkeyscreen .group-72 {
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 283px;
+  width: 620px;
+}
+
+.devicepluginsmartplugkeyscreen .group-3 {
+  height: 139px;
+  left: 0;
+  position: absolute;
+  top: 562px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-24 {
+  height: 139px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartplugkeyscreen .group-3-copy-2 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 711px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .group-60 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 1018px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .table-guide-text2line_mint-copy-29 {
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginsmartplugkeyscreen .group-75 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 840px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .group-74 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 929px;
+  width: 680px;
+}
+
+.devicepluginsmartplugkeyscreen .group-4 {
+  height: 1116px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginsmartplugkeyscreen .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugkeyscreen .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugkeyscreen .web-tab-device-plug-in_-smart-plug {
+  height: 47px;
+  left: 322px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugkeyscreen .tab {
+  align-items: center;
+  display: flex;
+  left: 100px;
+  position: relative;
+}
+
+.devicepluginsmartplugkeyscreen .key-screen {
+  cursor: pointer;
+  height: 17px;
+  width: 67px;
+}
+
+.devicepluginsmartplugkeyscreen .interaction-flow {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 98px;
+}
+
+.devicepluginsmartplugkeyscreen .basic-key-screen {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 101px;
+}
+
+.devicepluginsmartplugkeyscreen .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsmartplugkeyscreen .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginsmartplugkeyscreen .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsmartplugkeyscreen .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginsmartplugkeyscreen .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginsmartplugkeyscreen .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugkeyscreen .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsmartplugkeyscreen .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsmartplugkeyscreen .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsmartplugkeyscreen .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginsmartplugkeyscreen .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsmartplugkeyscreen .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginsmartplugkeyscreen .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginsmartplugkeyscreen .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginsmartplugkeyscreen .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginsmartplugkeyscreen .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginsmartplugkeyscreen .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginsmartplugkeyscreen .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

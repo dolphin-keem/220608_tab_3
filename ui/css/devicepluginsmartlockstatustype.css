@@ -1,0 +1,298 @@
+/* screen - devicepluginsmartlockstatustype */
+
+.devicepluginsmartlockstatustype {
+  background-color: var(--white);
+  height: 1310px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginsmartlockstatustype .group-76-copy {
+  height: 502px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginsmartlockstatustype .descriptiontabletop-copy-3 {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginsmartlockstatustype .group-13 {
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginsmartlockstatustype .table-guide-text2line_mint-copy-12 {
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartlockstatustype .table-guide-text2line_mint-copy {
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginsmartlockstatustype .table-guide-text1line_-bold-copy-1 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.devicepluginsmartlockstatustype .group-2 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 165px;
+  width: 680px;
+}
+
+.devicepluginsmartlockstatustype .table-guide-text2line_mint-copy-1 {
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartlockstatustype .group-3 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 294px;
+  width: 680px;
+}
+
+.devicepluginsmartlockstatustype .table-guide-text2line_mint-copy-31 {
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginsmartlockstatustype .group-60 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 383px;
+  width: 680px;
+}
+
+.devicepluginsmartlockstatustype .table-guide-text2line_mint-copy-34 {
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginsmartlockstatustype .group {
+  height: 768px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginsmartlockstatustype .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginsmartlockstatustype .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsmartlockstatustype .web-tab-device-plug-in_-smart-lock {
+  height: 17px;
+  left: 420px;
+  position: fixed;
+  top: 187px;
+  width: 302px;
+}
+
+.devicepluginsmartlockstatustype .tab {
+  align-items: center;
+  display: flex;
+}
+
+.devicepluginsmartlockstatustype .status-type {
+  cursor: pointer;
+  height: 17px;
+  width: 71px;
+}
+
+.devicepluginsmartlockstatustype .status-type-_-intera {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 182px;
+}
+
+.devicepluginsmartlockstatustype .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsmartlockstatustype .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginsmartlockstatustype .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsmartlockstatustype .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginsmartlockstatustype .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginsmartlockstatustype .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartlockstatustype .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsmartlockstatustype .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsmartlockstatustype .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsmartlockstatustype .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginsmartlockstatustype .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsmartlockstatustype .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginsmartlockstatustype .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginsmartlockstatustype .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginsmartlockstatustype .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginsmartlockstatustype .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginsmartlockstatustype .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginsmartlockstatustype .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

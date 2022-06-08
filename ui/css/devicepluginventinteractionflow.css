@@ -1,0 +1,228 @@
+/* screen - devicepluginventinteractionflow */
+
+.devicepluginventinteractionflow {
+  background-color: var(--white);
+  height: 4293px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginventinteractionflow .group-7 {
+  height: 851px;
+  left: 420px;
+  position: absolute;
+  top: 3243px;
+  width: 1400px;
+}
+
+.devicepluginventinteractionflow .group-6 {
+  height: 808px;
+  left: 420px;
+  position: absolute;
+  top: 2285px;
+  width: 1400px;
+}
+
+.devicepluginventinteractionflow .group-5 {
+  height: 864px;
+  left: 420px;
+  position: absolute;
+  top: 1272px;
+  width: 1400px;
+}
+
+.devicepluginventinteractionflow .group-4 {
+  height: 780px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.devicepluginventinteractionflow .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginventinteractionflow .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginventinteractionflow .web-tab-device-plug-in_-vent {
+  height: 47px;
+  left: 322px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.devicepluginventinteractionflow .tab {
+  align-items: center;
+  display: flex;
+  left: 100px;
+  position: relative;
+}
+
+.devicepluginventinteractionflow .key-screen {
+  cursor: pointer;
+  height: 17px;
+  width: 66px;
+}
+
+.devicepluginventinteractionflow .interaction-flow {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 99px;
+}
+
+.devicepluginventinteractionflow .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginventinteractionflow .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginventinteractionflow .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginventinteractionflow .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginventinteractionflow .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginventinteractionflow .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginventinteractionflow .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginventinteractionflow .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginventinteractionflow .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginventinteractionflow .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginventinteractionflow .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginventinteractionflow .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginventinteractionflow .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginventinteractionflow .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginventinteractionflow .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginventinteractionflow .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginventinteractionflow .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginventinteractionflow .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

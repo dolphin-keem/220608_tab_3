@@ -1,0 +1,322 @@
+/* screen - devicepluginbasicinteractiontimeroutine */
+
+.devicepluginbasicinteractiontimeroutine {
+  background-color: var(--white);
+  height: 5327px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractiontimeroutine .group-5 {
+  height: 774px;
+  left: 420px;
+  position: absolute;
+  top: 4353px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractiontimeroutine .group-6 {
+  height: 948px;
+  left: 420px;
+  position: absolute;
+  top: 3205px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractiontimeroutine .group-7 {
+  height: 714px;
+  left: 420px;
+  position: absolute;
+  top: 2291px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractiontimeroutine .group-8 {
+  height: 715px;
+  left: 420px;
+  position: absolute;
+  top: 1377px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractiontimeroutine .group-9 {
+  height: 789px;
+  left: 420px;
+  position: absolute;
+  top: 389px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-sub_-title_w-description {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-tab-device-plug {
+  background-color: var(--white);
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractiontimeroutine .x3rd-depth-copy {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractiontimeroutine .save-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 720px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.devicepluginbasicinteractiontimeroutine .change-icon-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 594px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.devicepluginbasicinteractiontimeroutine .change-device-name-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 417px;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.devicepluginbasicinteractiontimeroutine .add-to-home-screen-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 243px;
+  position: absolute;
+  top: 0;
+  width: 124px;
+}
+
+.devicepluginbasicinteractiontimeroutine .remove-device-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.devicepluginbasicinteractiontimeroutine .x3rd-depth-copy-2 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractiontimeroutine .information {
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.devicepluginbasicinteractiontimeroutine .refresh-rule-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 224px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.devicepluginbasicinteractiontimeroutine .time-routine-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 350px;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.devicepluginbasicinteractiontimeroutine .capability-_-graph-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 494px;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.devicepluginbasicinteractiontimeroutine .activity-history-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 661px;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.devicepluginbasicinteractiontimeroutine .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractiontimeroutine .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginbasicinteractiontimeroutine .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractiontimeroutine .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginbasicinteractiontimeroutine .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractiontimeroutine .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractiontimeroutine .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractiontimeroutine .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginbasicinteractiontimeroutine .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractiontimeroutine .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginbasicinteractiontimeroutine .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractiontimeroutine .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginbasicinteractiontimeroutine .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginbasicinteractiontimeroutine .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

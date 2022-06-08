@@ -1,0 +1,413 @@
+/* screen - devicepluginthermostatkeyscreen */
+
+.devicepluginthermostatkeyscreen {
+  background-color: var(--white);
+  height: 1434px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginthermostatkeyscreen .group-container {
+  height: 892px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .group-15 {
+  height: 892px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .descriptiontabletop {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .group-14 {
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .group-13 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text2line_mint {
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text2line_mint-copy {
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text1line_-bold {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.devicepluginthermostatkeyscreen .group-12 {
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 89px;
+  width: 620px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text2line_mint-copy-2-1 {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text2line_mint-copy-1 {
+  cursor: pointer;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginthermostatkeyscreen .group-11 {
+  height: 117px;
+  left: 60px;
+  position: absolute;
+  top: 156px;
+  width: 620px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text2line_mint-copy-2 {
+  height: 117px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginthermostatkeyscreen .group {
+  height: 117px;
+  left: 60px;
+  position: absolute;
+  top: 283px;
+  width: 620px;
+}
+
+.devicepluginthermostatkeyscreen .group-2 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 466px;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .group-3 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 555px;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text2line_mint-1 {
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginthermostatkeyscreen .group-4 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 684px;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .group-5 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 773px;
+  width: 680px;
+}
+
+.devicepluginthermostatkeyscreen .table-guide-text2line_mint-copy-3 {
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginthermostatkeyscreen .group-16 {
+  height: 187px;
+  left: 203px;
+  position: absolute;
+  top: 354px;
+  width: 467px;
+}
+
+.devicepluginthermostatkeyscreen .rectangle {
+  border: 5px solid #a0ecef;
+  height: 90px;
+  left: 222px;
+  position: absolute;
+  top: 97px;
+  width: 245px;
+}
+
+.devicepluginthermostatkeyscreen .group-10 {
+  background-color: #a0ecef;
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 467px;
+}
+
+.devicepluginthermostatkeyscreen .leezm-device-featur {
+  color: #35618f;
+  font-family: var(--font-family-samsungone-400);
+  font-size: var(--font-size-m);
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 9px;
+  width: 435px;
+}
+
+.devicepluginthermostatkeyscreen .overlap-group4 {
+  background-image: url(../img/devicepluginthermostatkeyscreen-group-9@2x.png);
+  background-size: 100% 100%;
+  height: 768px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginthermostatkeyscreen .rectangle-copy {
+  border: 8px solid #a0ebee;
+  height: 98px;
+  position: relative;
+  top: 384px;
+  width: 289px;
+}
+
+.devicepluginthermostatkeyscreen .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginthermostatkeyscreen .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginthermostatkeyscreen .web-tab-device-plug-in_-thermostat {
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginthermostatkeyscreen .tab {
+  align-items: center;
+  display: flex;
+  left: 100px;
+  position: relative;
+}
+
+.devicepluginthermostatkeyscreen .key-screen {
+  cursor: pointer;
+  height: 17px;
+  width: 67px;
+}
+
+.devicepluginthermostatkeyscreen .interaction-flow {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 98px;
+}
+
+.devicepluginthermostatkeyscreen .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginthermostatkeyscreen .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginthermostatkeyscreen .rectangle-1 {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginthermostatkeyscreen .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginthermostatkeyscreen .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginthermostatkeyscreen .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginthermostatkeyscreen .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginthermostatkeyscreen .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginthermostatkeyscreen .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginthermostatkeyscreen .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginthermostatkeyscreen .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginthermostatkeyscreen .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginthermostatkeyscreen .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginthermostatkeyscreen .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginthermostatkeyscreen .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginthermostatkeyscreen .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginthermostatkeyscreen .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginthermostatkeyscreen .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

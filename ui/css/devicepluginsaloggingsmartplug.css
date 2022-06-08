@@ -1,0 +1,285 @@
+/* screen - devicepluginsaloggingsmartplug */
+
+.devicepluginsaloggingsmartplug {
+  background-color: var(--white);
+  height: 3284px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginsaloggingsmartplug .group-8 {
+  height: 1053px;
+  left: 409px;
+  position: absolute;
+  top: 2032px;
+  width: 1412px;
+}
+
+.devicepluginsaloggingsmartplug .group-7 {
+  height: 1494px;
+  left: 418px;
+  position: absolute;
+  top: 389px;
+  width: 1403px;
+}
+
+.devicepluginsaloggingsmartplug .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingsmartplug .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingsmartplug .web-tab-device-plug-in_-smart-lock {
+  background-color: var(--white);
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingsmartplug .tab {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+}
+
+.devicepluginsaloggingsmartplug .sa-logging {
+  cursor: pointer;
+  height: 17px;
+  width: 67px;
+}
+
+.devicepluginsaloggingsmartplug .gas-valve {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 63px;
+}
+
+.devicepluginsaloggingsmartplug .elevator {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 54px;
+}
+
+.devicepluginsaloggingsmartplug .light {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 34px;
+}
+
+.devicepluginsaloggingsmartplug .thermostat-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 75px;
+}
+
+.devicepluginsaloggingsmartplug .tab-1 {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 47px;
+}
+
+.devicepluginsaloggingsmartplug .air-conditioner-copy {
+  cursor: pointer;
+  height: 17px;
+  width: 95px;
+}
+
+.devicepluginsaloggingsmartplug .vent-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 29px;
+}
+
+.devicepluginsaloggingsmartplug .curtain-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 46px;
+}
+
+.devicepluginsaloggingsmartplug .integrated-switch-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 112px;
+}
+
+.devicepluginsaloggingsmartplug .smart-plug-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 69px;
+}
+
+.devicepluginsaloggingsmartplug .smart-lock-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 67px;
+}
+
+.devicepluginsaloggingsmartplug .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingsmartplug .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginsaloggingsmartplug .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingsmartplug .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginsaloggingsmartplug .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginsaloggingsmartplug .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingsmartplug .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsaloggingsmartplug .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsaloggingsmartplug .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingsmartplug .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginsaloggingsmartplug .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsaloggingsmartplug .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginsaloggingsmartplug .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginsaloggingsmartplug .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginsaloggingsmartplug .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginsaloggingsmartplug .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginsaloggingsmartplug .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginsaloggingsmartplug .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

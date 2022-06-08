@@ -1,0 +1,307 @@
+/* screen - deviceplugincurtainkeyscreen */
+
+.deviceplugincurtainkeyscreen {
+  background-color: var(--white);
+  height: 1260px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.deviceplugincurtainkeyscreen .group-61-copy {
+  height: 522px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.deviceplugincurtainkeyscreen .descriptiontabletop-copy {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.deviceplugincurtainkeyscreen .group-13 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.deviceplugincurtainkeyscreen .table-guide-text2line_mint-copy {
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.deviceplugincurtainkeyscreen .table-guide-text2line_mint-copy-1 {
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.deviceplugincurtainkeyscreen .table-guide-text1line_-bold-copy {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.deviceplugincurtainkeyscreen .group-2 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 680px;
+}
+
+.deviceplugincurtainkeyscreen .group-3 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 314px;
+  width: 680px;
+}
+
+.deviceplugincurtainkeyscreen .table-guide-text2line_mint-copy-14 {
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.deviceplugincurtainkeyscreen .group-60 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 403px;
+  width: 680px;
+}
+
+.deviceplugincurtainkeyscreen .table-guide-text2line_mint-copy-17 {
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.deviceplugincurtainkeyscreen .group {
+  height: 718px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.deviceplugincurtainkeyscreen .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.deviceplugincurtainkeyscreen .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugincurtainkeyscreen .web-tab-device-plug-in_-curtain {
+  height: 47px;
+  left: 322px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugincurtainkeyscreen .tab {
+  align-items: center;
+  display: flex;
+  left: 100px;
+  position: relative;
+}
+
+.deviceplugincurtainkeyscreen .key-screen {
+  cursor: pointer;
+  height: 17px;
+  width: 67px;
+}
+
+.deviceplugincurtainkeyscreen .interaction-flow {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 98px;
+}
+
+.deviceplugincurtainkeyscreen .partytally-open-case-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 125px;
+}
+
+.deviceplugincurtainkeyscreen .partytally-open-case {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 237px;
+}
+
+.deviceplugincurtainkeyscreen .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.deviceplugincurtainkeyscreen .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.deviceplugincurtainkeyscreen .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.deviceplugincurtainkeyscreen .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.deviceplugincurtainkeyscreen .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.deviceplugincurtainkeyscreen .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugincurtainkeyscreen .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugincurtainkeyscreen .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugincurtainkeyscreen .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.deviceplugincurtainkeyscreen .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.deviceplugincurtainkeyscreen .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugincurtainkeyscreen .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.deviceplugincurtainkeyscreen .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.deviceplugincurtainkeyscreen .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.deviceplugincurtainkeyscreen .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.deviceplugincurtainkeyscreen .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.deviceplugincurtainkeyscreen .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.deviceplugincurtainkeyscreen .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

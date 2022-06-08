@@ -1,0 +1,202 @@
+/* screen - deviceplugindeviceplugindefaultplugin */
+
+.deviceplugindeviceplugindefaultplugin {
+  background-color: var(--white);
+  height: 1477px;
+  position: relative;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugindefaultplugin .group {
+  height: 993px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-tab-device-plug-in_-device-plug-in {
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugindeviceplugindefaultplugin .default-plug-in {
+  cursor: pointer;
+  height: 17px;
+  left: 333px;
+  position: absolute;
+  top: 0;
+  width: 92px;
+}
+
+.deviceplugindeviceplugindefaultplugin .basic-layout {
+  cursor: pointer;
+  height: 17px;
+  left: 208px;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.deviceplugindeviceplugindefaultplugin .overview {
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.deviceplugindeviceplugindefaultplugin .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.deviceplugindeviceplugindefaultplugin .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugindefaultplugin .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.deviceplugindeviceplugindefaultplugin .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugindeviceplugindefaultplugin .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.deviceplugindeviceplugindefaultplugin .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.deviceplugindeviceplugindefaultplugin .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.deviceplugindeviceplugindefaultplugin .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.deviceplugindeviceplugindefaultplugin .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

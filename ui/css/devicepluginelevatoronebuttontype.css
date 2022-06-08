@@ -1,0 +1,347 @@
+/* screen - devicepluginelevatoronebuttontype */
+
+.devicepluginelevatoronebuttontype {
+  background-color: var(--white);
+  height: 1398px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginelevatoronebuttontype .group-57 {
+  height: 856px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .descriptiontabletop-copy {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .group-55 {
+  height: 315px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text2line_mint-copy {
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text2line_mint-copy-1 {
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text2line_mint-copy-46 {
+  height: 159px;
+  left: 60px;
+  position: absolute;
+  top: 89px;
+  width: 400px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text2line_mint-copy-47 {
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 258px;
+  width: 400px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text1line_-bold-copy {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.devicepluginelevatoronebuttontype .group-2 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 381px;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text2line_mint-copy-6 {
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginelevatoronebuttontype .group-3 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 510px;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .group-4 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 599px;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .group-5 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 688px;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text2line_mint-copy-13 {
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginelevatoronebuttontype .group-5-copy {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 777px;
+  width: 680px;
+}
+
+.devicepluginelevatoronebuttontype .table-guide-text2line_mint-copy-15 {
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginelevatoronebuttontype .group-8 {
+  height: 718px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginelevatoronebuttontype .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginelevatoronebuttontype .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginelevatoronebuttontype .web-tab-device-plug-in_-elevator {
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginelevatoronebuttontype .tab {
+  align-items: center;
+  display: flex;
+  left: 100px;
+  position: relative;
+}
+
+.devicepluginelevatoronebuttontype .one-button-type {
+  cursor: pointer;
+  height: 17px;
+  width: 104px;
+}
+
+.devicepluginelevatoronebuttontype .one-button-type-_-in {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 212px;
+}
+
+.devicepluginelevatoronebuttontype .two-button-type-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 100px;
+}
+
+.devicepluginelevatoronebuttontype .two-button-type_inte {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 206px;
+}
+
+.devicepluginelevatoronebuttontype .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginelevatoronebuttontype .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginelevatoronebuttontype .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginelevatoronebuttontype .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginelevatoronebuttontype .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginelevatoronebuttontype .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatoronebuttontype .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginelevatoronebuttontype .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginelevatoronebuttontype .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginelevatoronebuttontype .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginelevatoronebuttontype .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginelevatoronebuttontype .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginelevatoronebuttontype .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginelevatoronebuttontype .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginelevatoronebuttontype .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginelevatoronebuttontype .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginelevatoronebuttontype .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginelevatoronebuttontype .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

@@ -1,0 +1,219 @@
+/* screen - devicepluginintergratedswitchinteractionflow */
+
+.devicepluginintergratedswitchinteractionflow {
+  background-color: var(--white);
+  height: 3514px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-8 {
+  height: 891px;
+  left: 420px;
+  position: absolute;
+  top: 1384px;
+  width: 1400px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-5 {
+  height: 890px;
+  left: 420px;
+  position: absolute;
+  top: 2424px;
+  width: 1400px;
+}
+
+.devicepluginintergratedswitchinteractionflow .group-7 {
+  height: 892px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-tab-device-plug {
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginintergratedswitchinteractionflow .tab {
+  align-items: center;
+  display: flex;
+  left: 102px;
+  position: relative;
+}
+
+.devicepluginintergratedswitchinteractionflow .key-screen {
+  cursor: pointer;
+  height: 17px;
+  width: 66px;
+}
+
+.devicepluginintergratedswitchinteractionflow .interaction-flow {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 99px;
+}
+
+.devicepluginintergratedswitchinteractionflow .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginintergratedswitchinteractionflow .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchinteractionflow .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginintergratedswitchinteractionflow .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginintergratedswitchinteractionflow .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginintergratedswitchinteractionflow .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginintergratedswitchinteractionflow .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginintergratedswitchinteractionflow .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginintergratedswitchinteractionflow .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

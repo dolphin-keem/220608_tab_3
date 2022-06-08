@@ -1,0 +1,350 @@
+/* screen - devicepluginventkeyscreen */
+
+.devicepluginventkeyscreen {
+  background-color: var(--white);
+  height: 1374px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginventkeyscreen .group-61 {
+  height: 794px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .descriptiontabletop {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .group-14 {
+  height: 213px;
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .group-13 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint {
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint-copy {
+  cursor: pointer;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginventkeyscreen .table-guide-text1line_-bold {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint-copy-2 {
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 89px;
+  width: 400px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint-copy-3 {
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 156px;
+  width: 400px;
+}
+
+.devicepluginventkeyscreen .group-2 {
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 279px;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint-1 {
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginventkeyscreen .group-3 {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 388px;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint-2 {
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.devicepluginventkeyscreen .group-4 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 517px;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint-copy-1 {
+  cursor: pointer;
+  height: 77px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginventkeyscreen .group-5 {
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 606px;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .group-5-copy-3 {
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 695px;
+  width: 680px;
+}
+
+.devicepluginventkeyscreen .table-guide-text2line_mint-copy-43 {
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.devicepluginventkeyscreen .group-6 {
+  height: 832px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.devicepluginventkeyscreen .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginventkeyscreen .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginventkeyscreen .web-tab-device-plug-in_-vent {
+  height: 47px;
+  left: 322px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginventkeyscreen .tab {
+  align-items: center;
+  display: flex;
+  left: 100px;
+  position: relative;
+}
+
+.devicepluginventkeyscreen .key-screen {
+  cursor: pointer;
+  height: 17px;
+  width: 67px;
+}
+
+.devicepluginventkeyscreen .interaction-flow {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 98px;
+}
+
+.devicepluginventkeyscreen .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginventkeyscreen .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginventkeyscreen .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginventkeyscreen .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginventkeyscreen .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginventkeyscreen .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginventkeyscreen .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginventkeyscreen .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginventkeyscreen .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginventkeyscreen .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginventkeyscreen .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginventkeyscreen .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginventkeyscreen .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginventkeyscreen .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginventkeyscreen .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginventkeyscreen .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginventkeyscreen .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginventkeyscreen .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

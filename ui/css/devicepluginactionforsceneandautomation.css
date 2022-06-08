@@ -1,0 +1,183 @@
+/* screen - devicepluginactionforsceneandautomation */
+
+.devicepluginactionforsceneandautomation {
+  background-color: var(--white);
+  height: 1622px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginactionforsceneandautomation .overlap-group4 {
+  height: 1189px;
+  left: 419px;
+  position: absolute;
+  top: 234px;
+  width: 1402px;
+}
+
+.devicepluginactionforsceneandautomation .group-19 {
+  height: 1159px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 1402px;
+}
+
+.devicepluginactionforsceneandautomation .srceendescription {
+  height: 31px;
+  left: 1023px;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.devicepluginactionforsceneandautomation .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginactionforsceneandautomation .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginactionforsceneandautomation .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginactionforsceneandautomation .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginactionforsceneandautomation .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginactionforsceneandautomation .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginactionforsceneandautomation .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginactionforsceneandautomation .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginactionforsceneandautomation .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginactionforsceneandautomation .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginactionforsceneandautomation .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginactionforsceneandautomation .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginactionforsceneandautomation .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginactionforsceneandautomation .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginactionforsceneandautomation .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginactionforsceneandautomation .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginactionforsceneandautomation .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginactionforsceneandautomation .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginactionforsceneandautomation .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

@@ -1,0 +1,282 @@
+/* screen - devicepluginbasicinteractioninformation */
+
+.devicepluginbasicinteractioninformation {
+  background-color: var(--white);
+  height: 1253px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractioninformation .group {
+  height: 722px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioninformation .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioninformation .web-tab-device-plug {
+  background-color: var(--white);
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioninformation .x3rd-depth-copy {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioninformation .save-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 720px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.devicepluginbasicinteractioninformation .change-icon-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 594px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.devicepluginbasicinteractioninformation .change-device-name-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 417px;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.devicepluginbasicinteractioninformation .add-to-home-screen-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 243px;
+  position: absolute;
+  top: 0;
+  width: 124px;
+}
+
+.devicepluginbasicinteractioninformation .remove-device-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.devicepluginbasicinteractioninformation .x3rd-depth-copy-2 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractioninformation .information {
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.devicepluginbasicinteractioninformation .refresh-rule-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 224px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.devicepluginbasicinteractioninformation .time-routine-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 350px;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.devicepluginbasicinteractioninformation .capability-_-graph-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 494px;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.devicepluginbasicinteractioninformation .activity-history-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 661px;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.devicepluginbasicinteractioninformation .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioninformation .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginbasicinteractioninformation .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioninformation .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioninformation .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioninformation .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioninformation .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioninformation .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractioninformation .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractioninformation .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginbasicinteractioninformation .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractioninformation .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginbasicinteractioninformation .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractioninformation .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginbasicinteractioninformation .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginbasicinteractioninformation .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginbasicinteractioninformation .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginbasicinteractioninformation .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

@@ -1,0 +1,277 @@
+/* screen - devicepluginsaloggingthermostat */
+
+.devicepluginsaloggingthermostat {
+  background-color: var(--white);
+  height: 1958px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginsaloggingthermostat .group-6 {
+  height: 1369px;
+  left: 417px;
+  position: absolute;
+  top: 389px;
+  width: 1404px;
+}
+
+.devicepluginsaloggingthermostat .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingthermostat .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingthermostat .web-tab-device-plug-in_-smart-lock {
+  background-color: var(--white);
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginsaloggingthermostat .tab {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+}
+
+.devicepluginsaloggingthermostat .sa-logging {
+  cursor: pointer;
+  height: 17px;
+  width: 67px;
+}
+
+.devicepluginsaloggingthermostat .gas-valve {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 63px;
+}
+
+.devicepluginsaloggingthermostat .elevator {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 54px;
+}
+
+.devicepluginsaloggingthermostat .light {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 34px;
+}
+
+.devicepluginsaloggingthermostat .thermostat-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 75px;
+}
+
+.devicepluginsaloggingthermostat .tab-1 {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 47px;
+}
+
+.devicepluginsaloggingthermostat .air-conditioner-copy {
+  cursor: pointer;
+  height: 17px;
+  width: 95px;
+}
+
+.devicepluginsaloggingthermostat .vent-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 29px;
+}
+
+.devicepluginsaloggingthermostat .curtain-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 46px;
+}
+
+.devicepluginsaloggingthermostat .integrated-switch-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 112px;
+}
+
+.devicepluginsaloggingthermostat .smart-plug-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 69px;
+}
+
+.devicepluginsaloggingthermostat .smart-lock-copy {
+  cursor: pointer;
+  height: 17px;
+  margin-left: 50px;
+  width: 67px;
+}
+
+.devicepluginsaloggingthermostat .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingthermostat .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginsaloggingthermostat .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingthermostat .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginsaloggingthermostat .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginsaloggingthermostat .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsaloggingthermostat .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsaloggingthermostat .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsaloggingthermostat .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginsaloggingthermostat .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginsaloggingthermostat .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsaloggingthermostat .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginsaloggingthermostat .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginsaloggingthermostat .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginsaloggingthermostat .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginsaloggingthermostat .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginsaloggingthermostat .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginsaloggingthermostat .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}

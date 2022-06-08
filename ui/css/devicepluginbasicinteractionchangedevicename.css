@@ -1,0 +1,290 @@
+/* screen - devicepluginbasicinteractionchangedevicename */
+
+.devicepluginbasicinteractionchangedevicename {
+  background-color: var(--white);
+  height: 1285px;
+  position: relative;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractionchangedevicename .group-4 {
+  height: 696px;
+  left: 419px;
+  position: absolute;
+  top: 389px;
+  width: 1400px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-sub_-title {
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-title-area {
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-tab-device-plug {
+  background-color: var(--white);
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionchangedevicename .x3rd-depth-copy {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionchangedevicename .save-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 720px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.devicepluginbasicinteractionchangedevicename .change-icon-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 594px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.devicepluginbasicinteractionchangedevicename .change-device-name-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 417px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.devicepluginbasicinteractionchangedevicename .add-to-home-screen-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 243px;
+  position: absolute;
+  top: 0;
+  width: 124px;
+}
+
+.devicepluginbasicinteractionchangedevicename .remove-device-copy {
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.devicepluginbasicinteractionchangedevicename .x3rd-depth-copy-2 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 1600px;
+}
+
+.devicepluginbasicinteractionchangedevicename .information {
+  cursor: pointer;
+  height: 17px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.devicepluginbasicinteractionchangedevicename .refresh-rule-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 224px;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.devicepluginbasicinteractionchangedevicename .time-routine-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 350px;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.devicepluginbasicinteractionchangedevicename .capability-_-graph-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 494px;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.devicepluginbasicinteractionchangedevicename .activity-history-copy-2 {
+  cursor: pointer;
+  height: 17px;
+  left: 661px;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.devicepluginbasicinteractionchangedevicename .lnb-device-plug-in {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionchangedevicename .overlap-group2 {
+  height: 1601px;
+  position: relative;
+}
+
+.devicepluginbasicinteractionchangedevicename .rectangle {
+  background-color: var(--concrete);
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionchangedevicename .stacked-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 185px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-index {
+  cursor: pointer;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionchangedevicename .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionchangedevicename .empty {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionchangedevicename .line-copy {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractionchangedevicename .empty-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-index-title-reference {
+  cursor: pointer;
+  width: 313px;
+}
+
+.devicepluginbasicinteractionchangedevicename .line {
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginbasicinteractionchangedevicename .home-net-ui-guideline {
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.devicepluginbasicinteractionchangedevicename .webgnb {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.devicepluginbasicinteractionchangedevicename .index-container {
+  background-color: var(--shark);
+  height: 64px;
+  position: relative;
+}
+
+.devicepluginbasicinteractionchangedevicename .index {
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-index-select {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-index-unselect {
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.devicepluginbasicinteractionchangedevicename .web-index-unelect_main {
+  background-image: url(../img/devicepluginelevatortwobuttontype-logo@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
